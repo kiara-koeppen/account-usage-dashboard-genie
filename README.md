@@ -1,6 +1,6 @@
 # Account Usage Dashboard v2 - Genie Enabled
 
-A Databricks AI/BI dashboard for monitoring DBU consumption, dollar cost estimation, and infrastructure usage across your entire Databricks account. This is a Genie-compatible fork of the [Account Usage Dashboard v2](https://github.com/CodyAustinDavis/dbsql_sme/tree/main/Observability%20Dashboards%20and%20DBA%20Resources/Account%20Usage%20Dashboard) by Cody Austin Davis.
+A Databricks AI/BI dashboard for monitoring DBU consumption, dollar cost estimation, and infrastructure usage across your entire Databricks account. This is a Genie-compatible fork of the [Account Usage Dashboard v2](https://github.com/CodyAustinDavis/dbsql_sme/tree/main/Observability%20Dashboards%20and%20DBA%20Resources/Account%20Usage%20Dashboard).
 
 > **Disclaimer:** This is not an official Databricks product. It is provided as-is with no warranty or support. Use at your own discretion. The underlying system tables and SQL functions referenced may change without notice.
 
